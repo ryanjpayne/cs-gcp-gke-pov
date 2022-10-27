@@ -48,3 +48,9 @@ variable "public-subnet-cidr-2" {
 variable "public-subnet-cidr-3" {
   type = string
 }
+
+# GKE Configuration
+
+variable "gke-num-nodes" {
+  type = number
+}

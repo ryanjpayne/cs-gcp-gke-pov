@@ -1,5 +1,6 @@
 
 # CrowdStrike - Google Cloud GKE POV
+Use this terraform configuration to stand up a GCP environment including a Network, GKE Kubernetes Cluster and other supporting resources, to deploy and test CrowdStrike products such as the Falcon Operator, Falcon Sensors and Kubernetes Protection Agent.
 
 ## How to Deploy
 
